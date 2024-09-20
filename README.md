@@ -1,4 +1,4 @@
-Point of Sale (POS) System
+#Point of Sale (POS) System
 Overview
 This is a console-based Point of Sale (POS) application developed in Python. 
 The system allows for secure user authentication, inventory management, and sales processing, providing a comprehensive solution for retail operations.
